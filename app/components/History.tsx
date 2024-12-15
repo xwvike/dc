@@ -19,7 +19,7 @@ export default function History() {
           <div>
             <h3 className="text-xl font-semibold mb-2">现代化（20世纪）</h3>
             <p className="text-gray-600">
-              20世纪，华盛顿特区经历了重大变革。1960年代的民权运动在这里达到高潮，马丁·路德·金发表了著名的"我有一个梦想"的演讲。
+              20世纪，华盛顿特区经历了重大变革。1960年代的民权运动在这里达到高潮，马丁·路德·金发表了著名的我有一个梦想的演讲。
             </p>
           </div>
           <div>
